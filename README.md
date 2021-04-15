@@ -15,15 +15,14 @@
 <img height=550 width=275 src="https://user-images.githubusercontent.com/15203737/74158109-c61e7680-4c19-11ea-9e46-022e00cd96fe.jpg" hspace=24><img height=550 width=275 src="https://user-images.githubusercontent.com/15203737/74158619-af2c5400-4c1a-11ea-9f7c-3be923dc194e.jpg"/> 
 
 
-## ScreenShot
-![1](https://user-images.githubusercontent.com/15203737/74158109-c61e7680-4c19-11ea-9e46-022e00cd96fe.jpg)
-![2](https://user-images.githubusercontent.com/15203737/74158619-af2c5400-4c1a-11ea-9f7c-3be923dc194e.jpg)
-
 ## Running The Tests
 This android application has been tested on android running on  5.0 - 9.0 and various devices
 
 ## Deployment
 Any android device
+
+## Medium Article
+[How to Print from Android Devices using Thermal Bluetooth Printer](https://medium.com/@folahan/how-to-print-from-android-devices-using-thermal-bluetooth-printer-8dbc4750699d)
 
 
 ## Authors
