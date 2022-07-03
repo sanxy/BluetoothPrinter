@@ -21,7 +21,7 @@ This android application has been tested on android running on  5.0 - 9.0 and va
 Any android device
 
 ## Medium Article
-[How to Print from Android Devices using Thermal Bluetooth Printer](https://medium.com/@folahan/how-to-print-from-android-devices-using-thermal-bluetooth-printer-8dbc4750699d)
+[How to Print from Android Devices using Thermal Bluetooth Printer Part One](https://medium.com/@folahan/how-to-print-from-android-devices-using-thermal-bluetooth-printer-8dbc4750699d)
 
 
 ## Authors
@@ -33,7 +33,7 @@ Bluetooth thermal printer is made available under the terms of the [MIT License]
 ```
 MIT License
 
-Copyright (c) 2018-2021 Yusuf Adefolahan
+Copyright (c) 2018-2022 Yusuf Adefolahan
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
