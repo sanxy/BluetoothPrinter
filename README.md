@@ -23,6 +23,8 @@ Any android device
 ## Medium Article
 [How to Print from Android Devices using Thermal Bluetooth Printer Part One](https://medium.com/@folahan/how-to-print-from-android-devices-using-thermal-bluetooth-printer-8dbc4750699d)
 
+[How to Print from Android Devices using Thermal Bluetooth Printer Part Two](https://medium.com/@folahan/how-to-print-from-android-devices-using-thermal-bluetooth-printer-part-two-6418ba9469ac)
+
 
 ## Authors
 Yusuf Adefolahan
