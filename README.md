@@ -4,7 +4,6 @@
 ## Features:
 * Connect to thermal printer
 * Custom text and Edit text to display
-* The sort order can be by most popular or by highest-rated
 
 
 ## Requirements
